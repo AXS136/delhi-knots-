@@ -1,0 +1,7 @@
+{
+  "name": "delhi knots",
+  "version": "1.0.0",
+  "version": "1.0.1",
+  "description": "A browserify transform for the istanbul code coverage tool",
+  "main": "index.js",
+  "directories": {
